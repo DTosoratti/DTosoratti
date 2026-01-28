@@ -1,8 +1,6 @@
 # 👋 Hola, soy Dante Tosoratti
 
-Soy estudiante universitario del ITBA con foco en **análisis de datos, visualización y análisis predictivo**.  
-Me interesa transformar datos en información clara y útil, combinando criterio analítico con buena comunicación de resultados.
-
+Soy estudiante universitario del ITBA de la carrera "Analítica empresarial y social (Data Science)". 
 ---
 
 ## 🧠 Áreas de interés
@@ -12,7 +10,7 @@ Me interesa transformar datos en información clara y útil, combinando criterio
 - Visualización de información
 - Análisis predictivo
 - Sports Analytics
-- Power BI, Python y Excel
+- Python, SQL, Excel, Power BI
 
 
 ---
